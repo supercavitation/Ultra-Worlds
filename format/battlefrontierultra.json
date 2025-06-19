@@ -1,0 +1,9 @@
+    {
+        "title": "Battle Frontier (Ultra)",
+        "cup": "battlefrontierultra",
+        "cp": 2500,
+        "meta": "ultra",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    }
