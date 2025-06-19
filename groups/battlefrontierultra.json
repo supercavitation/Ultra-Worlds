@@ -78,6 +78,10 @@
     "fastMove": "FURY_CUTTER",
     "chargedMoves": ["AERIAL_ACE", "EARTHQUAKE"]
 }, {
+    "speciesId": "gliscor_shadow",
+    "fastMove": "FURY_CUTTER",
+    "chargedMoves": ["AERIAL_ACE", "EARTHQUAKE"]
+}, {
     "speciesId": "golisopod",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["X_SCISSOR", "AQUA_JET"]
@@ -105,10 +109,6 @@
     "speciesId": "lickilicky",
     "fastMove": "ROLLOUT",
     "chargedMoves": ["BODY_SLAM", "SHADOW_BALL"]
-}, {
-    "speciesId": "malamar",
-    "fastMove": "PSYWAVE",
-    "chargedMoves": ["SUPER_POWER", "FOUL_PLAY"]
 }, {
     "speciesId": "mandibuzz",
     "fastMove": "SNARL",
